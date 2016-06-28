@@ -52,8 +52,9 @@ if (!$errors && !$missing) {
 
         // initialize the message
         $message = Swift_Message::newInstance()
-            ->setSubject('#subject#')
-            ->setFrom($from);
+           ->setSubject('#subject#')
+           ->setReplyTo(array($email,$username))
+           ->setFrom($email);
 
 		$image_ilha = $message->embed(Swift_Image::fromPath('img/saovicente_1.png'));
         $image_logo = $message->embed(Swift_Image::fromPath('img/logos_m.png'));
