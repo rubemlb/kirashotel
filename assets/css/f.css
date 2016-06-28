@@ -1,0 +1,107 @@
+.r {
+    text-shadow: 1px 1px black;
+}
+.t{
+    /*color:black;*/
+    text-shadow: 1px 1px 1px black, 0 0 1px black, 0 0 1px black;
+}
+
+.dizeres{
+	
+	-webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 71px 100%);
+clip-path: polygon(0 0, 100% 0%, 75% 100%, 0% 100%);
+	background:rgba(255, 255, 255,0.40);
+
+padding-top:12px;
+padding-right:12px;
+padding-bottom:12px;
+}
+#dizer{
+font-family: Mistral;
+	color: #541800;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.75);
+	margin:0;
+
+}
+
+.logo_ilha{	
+max-width:200px;
+}
+
+/*responsive starts here*/
+@media (min-width: 1200px){
+#dizer{
+
+	font-size:60px;	
+	position: absolute;
+		right:15px;
+				
+   
+}
+.dizeres2{width:auto !important ;}
+
+.dizeres{
+width:auto ;
+min-width:530px;
+margin-top:23em;
+white-space:nowrap;
+display:inline-block;
+}
+
+.logo_ilha{
+style:padding-top:5%
+}
+}
+
+@media (max-width: 1200px){
+#dizer{
+
+	font-size:55px;
+	padding-left:30px;
+	margin-left:1em;
+}
+.dizeres{
+
+	margin-top:23em;
+	width:500px;
+}
+.logo_ilha{
+style:padding-top:5%
+}
+}
+@media (max-width: 992px){
+#dizer{
+padding-left:1.4em;
+	font-size:45px;
+}
+.dizeres{
+
+	min-height: 50px;
+	margin-top:23em;
+		width:420px;
+	
+}
+.logo_ilha{
+height:44px;
+width:115px;
+}
+}
+@media (max-width: 767px){	
+	
+				
+#dizer{
+padding-left:1.8em;
+	font-size:40px;
+}
+.dizeres{
+
+	min-height: 50px;
+	margin-top:23em;
+			width:400px;
+	
+}
+.logo_ilha{
+height:44px;
+width:115px;
+}
+}
