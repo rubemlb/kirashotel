@@ -59,10 +59,10 @@ ini_set('max_execution_time', 300); // 5 minutes
                 // set up replacements for decorator plugin
             $replacements = [
                 'rubem.barros@primeconsulting.org' =>
-                    ['#subject#' => 'Reservations - Savana',
+                    ['#subject#' => 'Reservations - Kira’s boutique Hotel',
                     '#greeting#' => "You received a reservation request from $nome. See details below:"],
                  $email =>
-                    ['#subject#' => 'Reservations - Savana',
+                    ['#subject#' => 'Reservations - Kira’s boutique Hotel',
                     '#greeting#' => "You received a reservation request from $nome. See details below:"]
             ];
 
