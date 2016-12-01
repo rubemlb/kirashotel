@@ -820,7 +820,7 @@ jQuery(window).load(function(a,b,c){
 })(jQuery);
 
   //END================ LIGHTBOX ===================================================
-
+/*
 $(function () {
   
   var dateToday = new Date();
@@ -855,7 +855,7 @@ $(function () {
 });
 
 });
-
+*/
 //END============================= JQUERY TO PERFORM ON WINDOW LOAD =======================================
 
 ;
