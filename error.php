@@ -4,10 +4,10 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     <meta charset="utf-8">
-    <title>HOTEL KIRA'S - Mensagem Enviada</title>
+    <title>HOTEL KIRA'S- Reserva Enviada</title>
 
     <!-- meta helder--> 
-    <meta name="description" content="HOTEL KIRA'S | Want to visit paradise? Cape Verde is your destination, so come visit our islands. Situated in the coust of Africa, come on enjoy the sun and the fun! Travel to the perfect destination of tourism. Booking in hotels are always available.">
+    <meta name="description" content=" HOTEL KIRA'S | Want to visit paradise? Cape Verde is your destination, so come visit our islands. Situated in the coust of Africa, come on enjoy the sun and the fun! Travel to the perfect destination of tourism. Booking in hotels are always available.">
     <!-- end meta helder-->
     
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -29,24 +29,24 @@
     <link rel="manifest" href="assets/favicon/manifest.html">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-TileImage" content="../assets/favicon/mstile-144x144.png">
-    <meta name="msapplication-config" content="https://andrewch.eu/assets/favicon/browserconfig.xml">
+    <meta name="msapplication-config" content="http://andrewch.eu/assets/favicon/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
     <!-- Google Fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700" rel="stylesheet" type="text/css">
     <!-- OWLSLIDER-->
     <link rel="stylesheet" href="assets/js/libs/owl.carousel.2.0.0-beta.2.4/css/owl.carousel.css" type="text/css" media="all" data-module="owlslider">
     <link rel="stylesheet" href="assets/js/libs/owl.carousel.2.0.0-beta.2.4/css/owl.theme.default.css" type="text/css" media="all" data-module="owlslider">
     <!-- ANIMATE.CSS LIBRARY-->
     <link rel="stylesheet" href="assets/css/libs/animate.min.css" type="text/css" media="all">
     <!-- ICON WEB FONTS-->
-    <!-- HEADER SCRIPTS	-->
+    <!-- HEADER SCRIPTS -->
     <script type="text/javascript" src="assets/js/libs/modernizr.custom.48287.js"></script>
     <!-- MAIN STYLESHEETS-->
     <link rel="stylesheet" href="assets/css/theme_custom_bootstrap.min.css" type="text/css" media="all">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" media="all">
-	
-	<script>
+    
+    <script>
     function googleTranslateElementInit() {
       new google.translate.TranslateElement({
         pageLanguage: 'pt',
@@ -54,7 +54,7 @@
       }, 'google_translate_element');
     }
     </script>
-	
+    
   </head>
   <body style="">
     <div id="page_wrapper">
@@ -67,49 +67,43 @@
               <nav class="primary_nav">
                 <ul class="nav">
                   <li><a href="index.html">Home</a></li>
-				   <li><a href="servicos-list.html">Serviços</a></li>
-				   <li><a href="satisfacao.html">Satisfação</a></li>
+                   <li><a href="servicos-list.html">Serviços</a></li>
+                   <li><a href="satisfacao.html">Satisfação</a></li>
                   <li><a href="gallery.html">Galeria</a></li>
-				  <li><a href="booking.html">Reservas</a></li>
+                  <li><a href="booking.html">Reservas</a></li>
                   <li><a href="contact.html" style="margin-right: 10px">Contactos</a></li>
-				  <li><div id="google_translate_element" style="margin-left: 30px; margin-right: 85px"></div></li>
+                  <li><div id="google_translate_element" style="margin-left: 30px; margin-right: 85px"></div></li>
                 </ul>
               </nav>
             </div>
-			<a class="menu-toggler"><span class="title"></span><span class="lines"></span></a>
+            <a class="menu-toggler"><span class="title"></span><span class="lines"></span></a>
           </div>
         </div>
         <!-- END======================== HEADER ==========================-->
       </div>
       <div class="head_panel">
-          <div style="background-image: url('img/banners/banner_1.jpg')" class="full_width_photo transparent_film">
+          <div style="background-image: url('img/capas2.jpg')" class="full_width_photo transparent_film">
             <div class="container">
               <div class="caption">
-                <h1>Contactos</h1><span>Mensagem enviada.</span>
+                <h1>Erro no processo</h1>
               </div>
             </div>
           </div>
        </div>
-      <!-- END========================= HEAD PANEL ==========================	 -->
+      <!-- END========================= HEAD PANEL ==========================    -->
       <div class="main">
         <section class="light_section">
           <div class="container">
             <div class="col-md-12 text-center">
               <div class="section_header overlay"><span></span>
-                <h1>Kira’s Boutique Hotel</h1>
-                <p>A SUA MENSAGEM FOI ENVIADA</p><img src="assets/images/decoration-1.png" alt="Image">
-              </div>
-            </div>
-            <div class="col-md-10 col-md-offset-1 text-center margin_bottom">
-              <div class="text_block">
-                <h3>MUITO OBRIGADO PELA PREFERÊNCIA</h3>
-                <p class="text-justify">A sua mensagem foi enviada!</p>
-				<p class="text-justify">Iremos entrar em contacto consigo pelo email indicado.</p>
+                <h1>HOTEL KIRA'S</h1>
+                <p>Desculpe, houve um problema!!!</p><img src="assets/images/decoration-1.png" alt="Image">
               </div>
             </div>
           </div>
         </section>
       </div>
+      <!-- ============================ FOOTER ============================-->
 <footer class="footer undefined">
         <div class="container-fluid">
           <div class="row">
@@ -118,7 +112,7 @@
               </div>
               <div class="text_block margin_top">
                 <div class="footer_block"><i class="icon icon-Phone margin_left_custom_1"></i>+(238) 230 0274/75</div>
-                <div class="footer_block"><i class="icon icon-Flag margin_left_custom_1"></i>Rua de Argélia, nº 24 Mindelo - S. Vicente</div>
+                <div class="footer_block"><i class="icon icon-Flag margin_left_custom_1"></i>Rua de Argélia, nº 24 Mindelo - S. Vicente-Cabo Verde</div>
                 <div class="footer_block"><i class="icon icon-Keyboard margin_left_custom_1"></i>kiras@kirashotel.com</div>
               </div>
             </div>
@@ -147,7 +141,7 @@
           </div></a>
           <div class="text_block">
             <div><i class="icon icon-Phone"></i>+(238) 230 0274/75</div>
-            <div><i class="icon icon-Flag"></i>Hotel Residencial Savana, Alto São Pedro</div>
+            <div><i class="icon icon-Flag"></i>Rua de Argélia, nº 24 Mindelo - S. Vicente - Cabo Verde</div>
             <div><i class="icon icon-Keyboard"></i>kiras@kirashotel.com</div>
           </div>
         </aside>
@@ -177,30 +171,31 @@
     <!-- END==================== SCRIPTS | INIT ===================-->
   
   <!-- ======================= Google Translate ====================-->
-  <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   <!-- END==================== Google Translate ====================-->
   
   <style>
     div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span{color:#a69a9a;}
+    div#google_translate_element div.goog-te-gadget-simple{background-color:transparent;}
     div#google_translate_element div.goog-te-gadget-simple{border-left: 0px;}
     div#google_translate_element div.goog-te-gadget-simple{border-right: 0px;}
     div#google_translate_element div.goog-te-gadget-simple{border-bottom: 0px;}
     div#google_translate_element div.goog-te-gadget-simple{border-top: 0px;}
   </style>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
   
-  <!-- google analytics -->
+<!-- google analytics -->
 
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-81807682-27', 'auto');
-    ga('send', 'pageview');
-  </script>
+  ga('create', 'UA-81807682-27', 'auto');
+  ga('send', 'pageview');
+</script>
 
-  <!-- end google analytics -->  
+<!-- end google analytics -->  
   
   </body>
 </html>

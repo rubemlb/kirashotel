@@ -30,11 +30,11 @@
     <link rel="manifest" href="assets/favicon/manifest.html">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-TileImage" content="../assets/favicon/mstile-144x144.png">
-    <meta name="msapplication-config" content="http://andrewch.eu/assets/favicon/browserconfig.xml">
+    <meta name="msapplication-config" content="https://andrewch.eu/assets/favicon/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
     <!-- Google Fonts-->
-    <link href="http://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700" rel="stylesheet" type="text/css">
     <!-- OWLSLIDER-->
     <link rel="stylesheet" href="assets/js/libs/owl.carousel.2.0.0-beta.2.4/css/owl.carousel.css" type="text/css" media="all" data-module="owlslider">
     <link rel="stylesheet" href="assets/js/libs/owl.carousel.2.0.0-beta.2.4/css/owl.theme.default.css" type="text/css" media="all" data-module="owlslider">
@@ -131,19 +131,20 @@
 								<div class="screen-reader-response"></div>
 								<form class="contact_form" name="reserva" action="enviar_reserva.php" method="post">
 
-                          <div class="col-md-6">
-                            <div class="form-group">
-                              <label>Data check in*</label>
-                              <input type="text" placeholder="Data chegada" id="arrival_date" name="arrival_date" required="required">
-                            </div>
-                          </div>
-
-                          <div class="col-md-6">
-                            <div class="form-group">
-                              <label>Data check out*</label>
-                              <input type="text" placeholder="Data partida" id="departure_date" name="departure_date" required="required">
-                            </div>
-                          </div>
+                          <!-- Date pick-->
+                           <div class="col-md-6">
+                              <div class="form-group">
+                                 <label>Check-in*</label><i class="icon icon-Agenda" style="margin-left: 10px; cursor: pointer; cursor: hand;"></i>
+                                 <input type="text" style="cursor: pointer; cursor: hand;" placeholder="Check-in" id="arrival_date" name="arrival_date" required="required">
+                                </div>
+                           </div>
+                           <div class="col-md-6">
+                              <div class="form-group">
+                                 <label>Check-out*</label><i class="icon icon-Agenda" style="margin-left: 10px; cursor: pointer; cursor: hand;"></i>
+                                 <input type="text" style="cursor: pointer; cursor: hand;" placeholder="Check-out"id="departure_date" name="departure_date" required="required">
+                              </div>
+                           </div>
+                           <!-- /Date pick-->
 
                           <div class="col-md-6">
                             <div class="form-group">
@@ -174,7 +175,7 @@
                           <div class="col-md-6">
                             <div class="form-group">
                             <select class="form-control" id="num_children" name="num_children">
-                              <option disabled selected value>Nº de Crianças*</option>
+                              <option disabled selected value>Nº de Crianças</option>
                               <option>0</option>
                               <option>1</option>
                               <option>2</option>
@@ -874,7 +875,7 @@
     <!-- END==================== SCRIPTS | INIT ===================-->
   
   <!-- ======================= Google Translate ====================-->
-  <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   <!-- END==================== Google Translate ====================-->
   
   <style>
