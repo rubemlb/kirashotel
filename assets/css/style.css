@@ -1710,7 +1710,7 @@ THE HEADER ELEMENT
 }
 .header a:hover,
 .header a:active {
-  color: #ffffff;
+  color: #a69a9a;
 }
 .header.full_width .mainbar .container,
 .header.full_width .top_bar .container {
@@ -2138,7 +2138,7 @@ a.menu-toggler:hover {
 a.menu-toggler:hover span.lines,
 a.menu-toggler:hover span.lines:before,
 a.menu-toggler:hover span.lines:after {
-  background: #ffffff;
+  background: #a69a9a;
 }
 a.menu-toggler.active {
   -o-transform: translate(100%, -50%);
